@@ -1,5 +1,5 @@
 # Xylophone
-##Arduino-Assisted Xylophone Player
+## Arduino-Assisted Xylophone Player
 
 This contraption was presented as one of the twenty submissions at the Science Hack Day San Francisco 2018 event. It received the People’s Choice Medal award. http://sf.sciencehackday.org/hacks-2018/
 
