@@ -32,4 +32,4 @@ Add more arms to play more notes simultaneously
 Add more arms to play drums, bells, etc., simultaneously
 Synchronize with other instruments using MIDI connection
 
-https://github.com/GillesdeB/Xylophone/Design/20181028_131436_a.jpg
+https://github.com/GillesdeB/Xylophone/blob/master/Design/20181028_131436_a.jpg
